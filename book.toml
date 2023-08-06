@@ -1,0 +1,27 @@
+[book]
+title = "알고리즘 모음집"
+authors = ["few256"]
+language = "ko"
+
+[rust]
+edition = "2021"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+mathjax-support = true
+
+[output.html.playground]
+copyable = true
+editable = true
+copy-js = true
+line-numbers = true
+runnable = true
+
+[output.html.search]
+enable = true
+limit-results = 20
+expand = true
+copy-js = true
