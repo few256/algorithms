@@ -11,6 +11,7 @@
   - [역전파 알고리즘](math/backpropagation.md)
   - [Yamada-Vogel 알고리즘](math/yamada-vogel.md)
   - [Parallel population count](math/bitpop.md)
+  - [\\( \mathbb{R}^2 \\) 상 회전 방향](math/plane-rotation.md)
 - [문자열](strings/README.md)
   - [Shift-OR 알고리즈](strings/shift-or.md)
   - [Boyer-Moore 알고리즘]()
