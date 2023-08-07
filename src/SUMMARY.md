@@ -2,6 +2,7 @@
 
 [소개](README.md)
 
-# 수학
+# 알고리즘
 
-- [이진 최대공약수](binary_gcd.md)
+- [수학](math/README.md)
+  - [이진 최대공약수](math/binary_gcd.md)
