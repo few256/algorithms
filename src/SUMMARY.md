@@ -21,3 +21,4 @@
   - [Turbo BM 알고리즘]()
   - [Apostolico-Giancarlo 알고리즘]()
 - [그래프](graphs/README.md)
+  - [Rem 알고리즘](graphs/rem.md)
