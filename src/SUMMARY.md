@@ -11,3 +11,6 @@
   - [역전파 알고리즘](math/backpropagation.md)
 - [문자열](strings/README.md)
   - [Shift-OR 알고리즈](strings/shift-or.md)
+  - [Boyer-Moore 알고리즘]()
+  - [Turbo BM 알고리즘]()
+  - [Apostolico-Giancarlo 알고리즘]()
