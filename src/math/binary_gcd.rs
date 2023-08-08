@@ -19,3 +19,7 @@ fn gcd(mut x: u64, mut y: u64) -> u64 {
     }
     x << shift
 }
+
+fn lcm(x: u64, y: u64) -> u64 {
+    x / gcd(x, y) * y
+}
