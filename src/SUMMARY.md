@@ -16,6 +16,7 @@
   - [Lambert W 함수](math/lambert-w.md)
   - [힐베르트 평면 채움 곡선](math/hillert-space-filling-curve.md)
   - [Nelder-Mead 방법](math/nelder-mead.md)
+  - [라그랑지 반전 공식](math/lagrange-inversion-formula.md)
 - [문자열](strings/README.md)
   - [Shift-OR 알고리즘](strings/shift-or.md)
   - [Boyer-Moore 알고리즘]()
