@@ -22,5 +22,5 @@
   - [Boyer-Moore 알고리즘]()
   - [Turbo BM 알고리즘]()
   - [Apostolico-Giancarlo 알고리즘]()
-- [그래프](graphs/README.md)
-  - [Rem 알고리즘](graphs/rem.md)
+- [자료 구조](data-structures/README.md)
+  - [Rem 알고리즘](data-structures/rem.md)
