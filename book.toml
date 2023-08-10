@@ -1,5 +1,6 @@
 [book]
 title = "알고리즘 모음집"
+description = "다양한 알고리즘을 모아 놓고 있습니다."
 authors = ["few256"]
 language = "ko"
 
