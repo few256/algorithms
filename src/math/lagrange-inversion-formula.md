@@ -13,8 +13,8 @@
 여기서
 \\[
   R_n = \frac{1}{2 \pi i} \int_{a}^{z}{ \int_{\gamma}{
-    \left( \frac{\phi(z) - b}{\phi(t) - b} \right)^{n - 1}
-    \frac{f'(t) \phi'(z)}{\phi(t) - \phi(z)} \ dt dz
+    \left( \frac{\phi(\zeta) - b}{\phi(t) - b} \right)^{n - 1}
+    \frac{f'(t) \phi'(\zeta)}{\phi(t) - \phi(\zeta)} \ dt\ d\zeta
   } }
 \\]
 
