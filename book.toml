@@ -12,6 +12,7 @@ create-missing = false
 
 [output.html]
 mathjax-support = true
+git-repository-url = "https://github.com/few256/algorithms"
 
 [output.html.playground]
 copyable = true
