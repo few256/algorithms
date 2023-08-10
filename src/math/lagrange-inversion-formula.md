@@ -29,7 +29,7 @@
 
 \\begin{align*}
 f(z) - f(a)
-& = \int_a^z{f'(\zeta)d\zeta} \\\\
+& = \int_a^z{f'(\zeta)\ d\zeta} \\\\
 & = \frac{1}{2 \pi i} \int_a^z{\int_{\gamma}{ \frac{f'(t) \phi'(\zeta)}{
     \phi(t) - \phi(\zeta)}\ dt\ d\zeta }} \\\\
 & = \frac{1}{2 \pi i} \int_a^z{\int_{\gamma}{
