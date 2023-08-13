@@ -24,3 +24,6 @@
   - [Apostolico-Giancarlo 알고리즘]()
 - [자료 구조](data-structures/README.md)
   - [Rem 알고리즘](data-structures/rem.md)
+- [최적화](optim/README.md)
+  - [이산적 이진 탐색](optim/discrete_binary_search.md)
+
