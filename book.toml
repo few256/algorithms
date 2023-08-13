@@ -19,6 +19,10 @@ git-repository-url = "https://github.com/few256/algorithms"
 enable = true
 level = 1
 
+[output.html.print]
+enable = false
+page-break = true
+
 [output.html.playground]
 copyable = true
 editable = true
